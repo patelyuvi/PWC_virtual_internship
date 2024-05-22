@@ -49,6 +49,7 @@ Average performance rating: men
 Average Performance rating: women
 
 
+ ![Alt text](https://github.com/patelyuvi/PWC_virtual_internship/blob/main/Diversity%20%26%20Inclusion.pbix)  
 
 
    
